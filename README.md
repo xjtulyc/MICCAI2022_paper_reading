@@ -1,4 +1,4 @@
-# MACCAI2022 Paper Reading
+# MICCAI2022 Paper Reading
 
 ## Brief Introduction
 
