@@ -1,4 +1,4 @@
-# MACCIA 2022 Part III
+# MACCAI 2022 Part III
 
 ## Information
 

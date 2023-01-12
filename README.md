@@ -1,17 +1,17 @@
-# MACCIA2022 Paper Reading
+# MACCAI2022 Paper Reading
 
 ## Brief Introduction
 
-This is a Github repository for reading notes for MICCIA2022 papers. 
+This is a Github repository for reading notes for MICCAI2022 papers. 
 
 For each paper, we mainly record its title, task, dataset name, dataset availability, and dataset links.
 
 The paper notes shall be written in ``Chinese``.
 
 
-| MICCIA年份+卷数+第几页|统计人 |   论文题目|任务描述|数据集名字	|数据集链接	|任务具体描述| 
+| MICCAI年份+卷数+第几页|统计人 |   论文题目|任务描述|数据集名字	|数据集链接	|任务具体描述| 
 | :----|:---: |   :---:|:---:|:---:	|:---:	|---:| 
-|MICCIA22,Part I, Page 1|Youcheng Li|   Title|Task Description|Dataset Name|Dataset Link	|Task Detailed Description| 
+|MICCAI22,Part I, Page 1|Youcheng Li|   Title|Task Description|Dataset Name|Dataset Link	|Task Detailed Description| 
 
 
 The author of the paper notes: 
