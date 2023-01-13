@@ -20,6 +20,9 @@
 |55|Youcheng Li|Intra-class Contrastive Learning Improves Computer Aided Diagnosis of Breast Cancer in Mammography|分类|私有数据集|略|使用对比学习提升分类性能| 
 
 ### Colonoscopy
-| 页码 |统计人 |   论文题目|任务描述|数据集名字	|数据集链接	|任务具体描述| 
+| 页码 |统计人|论文题目|任务描述|数据集名字|数据集链接|任务具体描述| 
 | :----|:---: |   :---:|:---:|:---:	|:---:	|---:| 
-|67|Youcheng Li|BoxPolyp: Boost Generalized Polyp Segmentation Using Extra Coarse Bounding Box Annotations||||| 
+|67|Youcheng Li|BoxPolyp: Boost Generalized Polyp Segmentation Using Extra Coarse Bounding Box Annotations|前景分割|Kvasir, CVC-ClinicDB , CVC-ColonDB, EndoScene and ETIS|[Kvasir](https://datasets.simula.no/kvasir-seg/), [CVC-ClinicDB](https://paperswithcode.com/dataset/cvc-clinicdb) , [CVC-ColonDB](https://paperswithcode.com/dataset/cvc-clinicdb), EndoScene and ETIS|使用bbox作为辅助信息进行分割|
+|78|Youcheng Li|FFCNet: Fourier Transform-Based Frequency Learning and Complex Convolutional Network for Colon Disease Classification|前景分割|私有数据集|略|使用基于傅里叶变换的频域学习方法|
+||Youcheng Li||||||
+||Youcheng Li||||||
