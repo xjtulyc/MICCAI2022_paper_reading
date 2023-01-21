@@ -24,5 +24,5 @@
 | :----|:---: |   :---:|:---:|:---:	|:---:	|---:| 
 |67|Youcheng Li|BoxPolyp: Boost Generalized Polyp Segmentation Using Extra Coarse Bounding Box Annotations|前景分割|Kvasir, CVC-ClinicDB , CVC-ColonDB, EndoScene and ETIS|[Kvasir](https://datasets.simula.no/kvasir-seg/), [CVC-ClinicDB](https://paperswithcode.com/dataset/cvc-clinicdb) , [CVC-ColonDB](https://paperswithcode.com/dataset/cvc-clinicdb), EndoScene and ETIS|使用bbox作为辅助信息进行分割|
 |78|Youcheng Li|FFCNet: Fourier Transform-Based Frequency Learning and Complex Convolutional Network for Colon Disease Classification|前景分割|私有数据集|略|使用基于傅里叶变换的频域学习方法|
-||Youcheng Li||||||
+|88|Youcheng Li|Contrastive Transformer-Based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection|||||
 ||Youcheng Li||||||
