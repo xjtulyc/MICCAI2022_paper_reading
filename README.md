@@ -20,8 +20,8 @@ The author of the paper notes:
 | :--- | :---: |---: |
 |I     | Brain Development and Atlases, DWI and Tractography, Functional Brain Networks, Neuroimaging, Heart and Lung Imaging, and Dermatology |Lei Meng |
 |II    | Computational (Integrative) Pathology, Computational Anatomy and Physiology, Ophthalmology, and Fetal Imaging |Lei Meng |
-|[III](https://github.com/xjtulyc/MICCAI2022_paper_reading/blob/main/Part%20III/notes.md)   | Breast Imaging, Colonoscopy, and Computer Aided Diagnosis |Youcheng Li |
-|IV    | Microscopic Image Analysis, Positron Emission Tomography, Ultrasound Imaging, Video Data Analysis, and Image Segmentation I |Youcheng Li |
+|[III](Part%20III/notes.md)   | Breast Imaging, Colonoscopy, and Computer Aided Diagnosis |Youcheng Li |
+|[IV](Part%20IV/notes.md)    | Microscopic Image Analysis, Positron Emission Tomography, Ultrasound Imaging, Video Data Analysis, and Image Segmentation I |Youcheng Li |
 |V     | Image Segmentation II and Integration of Imaging with Non-imaging Biomarkers |Youcheng Li |
 |VI    | Image Registration and Image Reconstruction |Youcheng Li |
 |VII   | Image-Guided Interventions and Surgery, Outcome and Disease Prediction, Surgical Data Science, Surgical Planning and Simulation, and Machine Learning – Domain Adaptation and Generalization |Youcheng Li |
